@@ -1,2 +1,2 @@
 #!/bin/bash
-chown 
+chown --frmo=guillaume betty hello 
